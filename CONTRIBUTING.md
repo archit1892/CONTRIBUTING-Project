@@ -1,6 +1,6 @@
 # Contribution guide
 
-Welcome to your Benzinga contribution. :smiley:
+Welcome to your Benzinga contribution. :beaker:
 
 #### Table Of Contents
 - [Getting Started](#getting-started)
@@ -78,4 +78,4 @@ other people don't accidentally duplicate your effort.
 If you want to contribute, you need to know a few things.
 [Code of conduct](https://benzinga.atlassian.net/wiki/spaces/DFES/pages/178651202/Contributing+Code+Standards)
 
-Thanks! :smiley:
+Thanks! :beaker:
