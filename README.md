@@ -6,4 +6,4 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests.
+Please read [CONTRIBUTING.md](https://github.com/archit1892/CONTRIBUTING-Project/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
