@@ -78,4 +78,4 @@ other people don't accidentally duplicate your effort.
 If you want to contribute, you need to know a few things.
 [Code of conduct](https://benzinga.atlassian.net/wiki/spaces/DFES/pages/178651202/Contributing+Code+Standards)
 
-Thanks! :beaker:
+Thanks! :smiley:
