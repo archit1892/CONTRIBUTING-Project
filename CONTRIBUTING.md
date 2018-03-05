@@ -1,6 +1,6 @@
 # Contribution guide
 
-Welcome to your Benzinga contribution. :code:
+Welcome to your Benzinga contribution. :smiley:
 
 #### Table Of Contents
 - [Getting Started](#getting-started)
