@@ -44,12 +44,12 @@ Welcome to your Benzinga contribution. :smiley:
     Note, using a `git add .` will automatically add all files. You can do a
     `git status` to see your changes, but do it before `git add`.
 
-6.  Commit your changes using a descriptive commit message with JIRA ticket ID.
+6.  Commit your changes using a descriptive commit message with JIRA issue ID.
 
     ```shell
     git commit -m "EVENTS-125: BZ Awards Competition Leveling the Playing Field"
     ```
-    EVENTS-125: would be ticket ID of JIRA
+    Where **EVENTS-125**: would be ID of issue on JIRA.
 
 7.  Push your commits to your Github Fork:
 
