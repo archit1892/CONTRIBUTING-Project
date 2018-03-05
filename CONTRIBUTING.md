@@ -8,8 +8,8 @@ Welcome to your Benzinga contribution. :smiley:
 
 ### Getting Started
 
-1.  If you are new to Git and Github, it is advisable you go through [this
-    link](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
+1.  If you are new to Git and Gitlab, it is advisable you go through [this
+    link](https://docs.gitlab.com/ce/gitlab-basics/README.html)
     before moving to the next step.
 
 2.  Clone the project.
@@ -44,14 +44,13 @@ Welcome to your Benzinga contribution. :smiley:
     Note, using a `git add .` will automatically add all files. You can do a
     `git status` to see your changes, but do it before `git add`.
 
-6.  Commit your changes using a descriptive commit message with JIRA issue ID.
+6.  Commit your changes using a descriptive commit message.
 
     ```shell
-    git commit -m "EVENTS-125: BZ Awards Competition Leveling the Playing Field"
+    git commit -m "Brief Description of Commit"
     ```
-    Where **EVENTS-125**: would be ID of issue on JIRA.
 
-7.  Push your commits to your Github Fork:
+7.  Push your commits to your Gitlab repo :
 
     ```shell
     git push -u origin branch-name
@@ -59,7 +58,7 @@ Welcome to your Benzinga contribution. :smiley:
 
 8.  Submit a pull request.
 
-    Within GitHub, visit this main repository and you should see a banner
+    Within Gitlab, visit this main repository and you should see a banner
     suggesting to make a pull request. While you're writing up the pull
     request, you can add `Closes #XXX` in the message body where `#XXX` is the
     issue you're fixing. So an example would be `Closes #42` would close issue
