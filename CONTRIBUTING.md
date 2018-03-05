@@ -67,13 +67,8 @@ Welcome to your Benzinga contribution. :smiley:
 
 ### Submitting a Merge Request
 
-What is a pull request?
-[Visit link](https://yangsu.github.io/pull-request-tutorial/)
-
-If you decide to fix an issue, it's advisable to check the comment thread in
-case there's somebody already working on a fix. If no one is working on it at
-the moment, kindly leave a comment stating that you intend to work on it so
-other people don't accidentally duplicate your effort.
+What is a merge request?
+[Visit link](https://docs.gitlab.com/ee/gitlab-basics/add-merge-request.html)
 
 ## Code of Conduct
 If you want to contribute, you need to know a few things.
