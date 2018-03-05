@@ -44,27 +44,28 @@ Welcome to your Benzinga contribution. :smiley:
     Note, using a `git add .` will automatically add all files. You can do a
     `git status` to see your changes, but do it before `git add`.
 
-6.  Commit your changes using a descriptive commit message.
+6.  Commit your changes using a descriptive commit message with JIRA issue ID.
 
     ```shell
-    git commit -m "Brief Description of Commit"
+    git commit -m "EVENTS-125: BZ Awards Competition Leveling the Playing Field"
     ```
+    Where **EVENTS-125**: would be ID of issue on JIRA.
 
-7.  Push your commits to your Gitlab repo :
+7.  Push your commits to your Gitlab repo:
 
     ```shell
     git push -u origin branch-name
     ```
 
-8.  Submit a pull request.
+8.  Submit a merge request.
 
     Within Gitlab, visit this main repository and you should see a banner
-    suggesting to make a pull request. While you're writing up the pull
+    suggesting to make a merge request. While you're writing up the merge
     request, you can add `Closes #XXX` in the message body where `#XXX` is the
     issue you're fixing. So an example would be `Closes #42` would close issue
     `#42`.
 
-### Submitting a Pull Request
+### Submitting a Merge Request
 
 What is a pull request?
 [Visit link](https://yangsu.github.io/pull-request-tutorial/)
